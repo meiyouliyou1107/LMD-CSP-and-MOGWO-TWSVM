@@ -1,1 +1,1 @@
-# LMD-CSP-and-MOGWO-TWSVM
+# The code can be used for research purpose only. Any work resulting from the use of this code should cite our original paper "Discriminating three imagery states of the same joint for brain-computer interface" that is currently under review in PeerJ.
